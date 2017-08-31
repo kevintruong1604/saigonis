@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url('../fonts/Montserrat-Medium.otf'); /* IE9 Compat Modes */
+    src: url('../fonts/Montserrat-Medium.otf?#iefix') format('embedded-opentype'),
+    url(../fonts/Montserrat-Medium.otf);
+}
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url('../fonts/Montserrat-Bold.otf'); /* IE9 Compat Modes */
+    src: url('../fonts/Montserrat-Bold.otf?#iefix') format('embedded-opentype'),
+    url(../fonts/Montserrat-Bold.otf);
+}
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('../fonts/Montserrat-Regular.otf'); /* IE9 Compat Modes */
+    src: url('../fonts/Montserrat-Regular.otf?#iefix') format('embedded-opentype'),
+    url(../fonts/Montserrat-Regular.otf);
+}
+@font-face {
+    font-family: Montserrat-Light;
+    src: url('../fonts/Montserrat-Light.otf'); /* IE9 Compat Modes */
+    src: url('../fonts/Montserrat-Light.otf?#iefix') format('embedded-opentype'),
+    url(../fonts/Montserrat-Light.otf);
+}
+body{
+    
+}
+h5 {
+    margin-top: 0px;
+}
+header {
+    background-color: #24ad40;
+}
+header a {
+    color: #ffffff;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+}
+/*end header*/
+.landingpage {
+    background-image: url('../images/homepage/Lager1.png');
+}
+/*end-wrapper*/
+footer {
+   
+}
+.background {
+    
+}
+footer .logo{
+    background-color: #24ad40;
+    height: 100px;
+}
+footer .container {
+
+}
+footer .logo img {
+
+}
+footer .social-icon .fa-inverse {
+    color: #24ad40;
+}
+
+
+.footer-icon a{
+    color: #24ad40;
+    background-color: #98e4a8;
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+    margin-right: 10px;
+}
+.footer-icon a:hover{
+    color: #24ad40;
+    background-color: #ffffff;
+    
+}
+.footer-icon{
+    text-align: right;
+}
+
+#logo-left {
+
+}
+#icon-right p{
+text-align: right;
+color: #ffffff;
+}
+footer .copyright{
+    padding-top: 1em;
+    font-family: Montserrat-Light; 
+}
